@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    font-family: 'Mohave', sans-serif;
+}
+
+.lit{
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+.cet{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex: content ;
+    margin-right: 30px;
+    height: 80px;
+}
+
+.text{
+    margin-left: 30px;
+    right: -20px;
+    margin-top: -70px;
+}
+
+.presso{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 60px;
+}
+
+.ferram{
+    display: flex;
+    height: 110px;
+    margin-top: 20px;
+}
+
+.pix{
+    margin-top: 10px;
+    margin-left: 30px;
+    background-color: rgba(175, 172, 172, 0.808);
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pixs > img{
+    width: 40px;
+}
+
+.fala{
+    display: flex;
+}
+
+.fala > p{
+    display: flex;
+    color: rgb(0, 0, 0);
+    margin-left: 70px;
+    align-items: center;
+}
+
+.deven{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 450px;
+    height: 50px;
+    background-color: rgba(175, 172, 172, 0.808);
+    border-radius: 10px;
+    align-items: center;
+}
+
+.deven > p{
+    margin-left: 25px;
+    align-items: center;
+}
+
+.deven > img{
+    width: 25px;
+    margin-left: 20px; 
+}
+
+.empres{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 450px;
+    height: 100px;
+    background-color: rgba(175, 172, 172, 0.808);
+    border-radius: 10px;
+    align-items: center;
+}
+
+.empres > p{
+    margin-left: 40px;
+    font-size: 17px;
+}
+
+.dit{
+    margin-top: 30px;
+    height: 3px;
+    background-color: rgba(175, 172, 172, 0.5);
+}
+
+.po{
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 80px;
+    width: 480px;
+    border-radius: 10px;
+}
+ 
+.carta{
+    width: 25px;
+    height: 40px;
+}
+
+.esc{
+    display: flex;
+    font-size: 30px;
+}
+
+.di{
+    margin-top: 150px;
+    height: 3px;
+    background-color: rgba(175, 172, 172, 0.664);
+}

@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    font-family: 'Mohave', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.cara{
+    display: flex;
+    background-color: rgba(91, 7, 248, 0.877);
+}
+
+.tex{
+    font-family: 'Mohave', sans-serif;
+    color: aliceblue;
+    margin-right: 40px;
+    margin-top: 87px;
+    font-size: x-large;
+}
+
+.a{
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.349);
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: -20px;
+    top: 20px;
+    max-width: 100px;
+}
+
+.b{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex: content;
+    margin-right: 30px;
+    height: 80px;
+}
